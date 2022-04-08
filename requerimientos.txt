@@ -1,0 +1,5 @@
+Requerimientos
+
+1 - Conocer precios de las prendas que vende
+2 - Conocer los tipos de prenda que posee (¿? tengo duda)
+3 - Conocer la venta de una prenda en un dia determinado
